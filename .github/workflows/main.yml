@@ -26,12 +26,13 @@ jobs:
       - name: Preparar arquivos públicos
         run: |
           mkdir _site
-          cp index.html style.css app.js engine.js treasure.js treasure.css perguntas.json manifest.webmanifest sw.js _site/
-          cp -r assets _site/
+          cp index.html style.css app.js engine.js treasure.js treasure.css chest-3d.js perguntas.json manifest.webmanifest sw.js _site/
+          cp -r assets vendor _site/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
       - name: Publicar
         id: deployment
         uses: actions/deploy-pages@v4
+
 
