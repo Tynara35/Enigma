@@ -1,0 +1,602 @@
+[
+  {
+    "type": "multiple",
+    "q": "Qual aplicativo de vídeos curtos foi comprado pela ByteDance e transformado no que hoje conhecemos como TikTok?",
+    "options": [
+      "Vine",
+      "Dubsmash",
+      "Musical.ly",
+      "Snapchat"
+    ],
+    "correct": 2,
+    "hint": "O nome do aplicativo tinha uma referência musical."
+  },
+  {
+    "type": "multiple",
+    "q": "Qual foi a foto que deteve o recorde de imagem mais curtida do Instagram por vários anos antes de ser ultrapassada pela foto de Lionel Messi com a Taça da Copa do Mundo?",
+    "options": [
+      "O nascimento da filha de Kylie Jenner",
+      "Um ovo caipira",
+      "O casamento de Justin Bieber",
+      "A última postagem de Chadwick Boseman"
+    ],
+    "correct": 1,
+    "hint": "Era um alimento, e não a fotografia de uma celebridade."
+  },
+  {
+    "type": "multiple",
+    "q": "O criador de conteúdo Khaby Lame se tornou o mais seguido do TikTok mundial fazendo qual tipo de vídeo?",
+    "options": [
+      "Danças virais de K-pop",
+      "Tutoriais de maquiagem",
+      "Reações silenciosas a \"life hacks\" (truques de internet) absurdos",
+      "Receitas de culinária em um minuto"
+    ],
+    "correct": 2,
+    "hint": "O humor vem dos gestos e da ausência de fala."
+  },
+  {
+    "type": "multiple",
+    "q": "O que significa a sigla \"POV\", muito utilizada em vídeos no TikTok e Reels?",
+    "options": [
+      "Point of View (Ponto de Vista)",
+      "Piece of Video (Pedaço de Vídeo)",
+      "People on Video (Pessoas no Vídeo)",
+      "Post on Verification (Postagem Verificada)"
+    ],
+    "correct": 0,
+    "hint": "Pense na perspectiva de quem está vendo a cena."
+  },
+  {
+    "type": "multiple",
+    "q": "O meme \"Attenzione Pickpocket!\", que viralizou mostrando uma mulher alertando turistas sobre batedores de carteira, foi gravado em qual cidade europeia?",
+    "options": [
+      "Roma",
+      "Paris",
+      "Veneza",
+      "Barcelona"
+    ],
+    "correct": 2,
+    "hint": "Procure a cidade associada a canais e gôndolas."
+  },
+  {
+    "type": "multiple",
+    "q": "O influenciador e streamer Casimiro Miguel popularizou qual destes bordões na internet brasileira?",
+    "options": [
+      "\"Receba!\"",
+      "\"Meteu essa?\"",
+      "\"Calma, calabreso\"",
+      "\"Bora, Bill!\""
+    ],
+    "correct": 1,
+    "hint": "É uma pergunta curta, em tom de surpresa."
+  },
+  {
+    "type": "multiple",
+    "q": "O bordão \"Receba! Graças a Deus, pai!\", que rodou o mundo e foi imitado por astros do futebol, pertence a qual influenciador brasileiro?",
+    "options": [
+      "Luva de Pedreiro",
+      "Boca de 09",
+      "Cremosinho",
+      "Toguro"
+    ],
+    "correct": 0,
+    "hint": "O apelido mistura um acessório esportivo com uma profissão."
+  },
+  {
+    "type": "multiple",
+    "q": "Qual humorista brasileiro popularizou o apelido \"Calabreso\", que virou meme e foi parar até no Big Brother Brasil?",
+    "options": [
+      "Diogo Defante",
+      "Whindersson Nunes",
+      "Toninho Tornado",
+      "Thiago Ventura"
+    ],
+    "correct": 2,
+    "hint": "O sobrenome artístico lembra um fenômeno do vento."
+  },
+  {
+    "type": "multiple",
+    "q": "Qual é o nome da rede social lançada pela Meta (dona do Instagram) para concorrer diretamente com o X (antigo Twitter)?",
+    "options": [
+      "Mastodon",
+      "Bluesky",
+      "Threads",
+      "Clubhouse"
+    ],
+    "correct": 2,
+    "hint": "O nome em inglês também pode significar fios."
+  },
+  {
+    "type": "multiple",
+    "q": "No TikTok, qual é o significado da sigla \"FYP\", que dá nome à página principal do aplicativo?",
+    "options": [
+      "For Your Profile (Para Seu Perfil)",
+      "Find Your People (Encontre Suas Pessoas)",
+      "For You Page (Página Para Você)",
+      "Famous Youth Posts (Postagens de Jovens Famosos)"
+    ],
+    "correct": 2,
+    "hint": "A tradução fala de uma página feita para você."
+  },
+  {
+    "type": "multiple",
+    "q": "Uma \"trend\" viral tomou conta do TikTok quando mulheres começaram a perguntar aos homens com que frequência eles pensavam em qual assunto histórico?",
+    "options": [
+      "A Construção das Pirâmides",
+      "A Segunda Guerra Mundial",
+      "O Império Romano",
+      "A Guerra Fria"
+    ],
+    "correct": 2,
+    "hint": "Pense em um império da Antiguidade."
+  },
+  {
+    "type": "multiple",
+    "q": "A trend \"Girl Dinner\" (Jantar de Menina) no TikTok faz referência a qual hábito alimentar?",
+    "options": [
+      "Fazer jantares luxuosos de três pratos",
+      "Juntar vários petiscos aleatórios em um prato em vez de fazer uma refeição tradicional",
+      "Comer apenas salada no jantar",
+      "Pedir fast food todos os dias"
+    ],
+    "correct": 1,
+    "hint": "É uma refeição improvisada com pequenas porções variadas."
+  },
+  {
+    "type": "multiple",
+    "q": "O que significa a sigla \"GRWM\", amplamente usada por influenciadores em vídeos de moda e maquiagem?",
+    "options": [
+      "Get Ready With Me (Arrume-se Comigo)",
+      "Girls Really Want Money (Garotas Realmente Querem Dinheiro)",
+      "Go Read With Me (Vá Ler Comigo)",
+      "Good Room, Welcome Mate (Bom Quarto, Bem-vindo Amigo)"
+    ],
+    "correct": 0,
+    "hint": "É um convite para acompanhar alguém se preparando."
+  },
+  {
+    "type": "multiple",
+    "q": "Na gíria moderna das redes sociais, o que significa dizer que \"Delulu é a Solulu\"?",
+    "options": [
+      "Estar apaixonado é o segredo da felicidade",
+      "Ser um pouco \"iludido/delirante\" é a solução para lidar com os problemas",
+      "Dinheiro é a única solução para tudo",
+      "O cansaço é a solução para dormir rápido"
+    ],
+    "correct": 1,
+    "hint": "A frase brinca com ilusão como solução."
+  },
+  {
+    "type": "multiple",
+    "q": "Qual cantora brasileira fez a internet parar após expor uma traição no \"banheiro de um bar\" lendo uma carta em um programa matinal de TV?",
+    "options": [
+      "Anitta",
+      "Ludmilla",
+      "Luísa Sonza",
+      "IZA"
+    ],
+    "correct": 2,
+    "hint": "O sobrenome artístico começa com S."
+  },
+  {
+    "type": "multiple",
+    "q": "Vídeos focados em sussurros, sons de objetos e estímulos visuais suaves para causar relaxamento são conhecidos por qual sigla?",
+    "options": [
+      "ASMR",
+      "NSFW",
+      "TBT",
+      "OOTD"
+    ],
+    "correct": 0,
+    "hint": "A sigla tem quatro letras e começa com A."
+  },
+  {
+    "type": "multiple",
+    "q": "No TikTok, viralizaram transmissões ao vivo onde os criadores agem de forma robótica, repetindo frases curtas cada vez que ganham um presente. Como é chamada essa trend?",
+    "options": [
+      "Live de Avatar",
+      "Live NPC",
+      "Live Cyborg",
+      "Live de Repetição"
+    ],
+    "correct": 1,
+    "hint": "Pense em personagens de jogos que não são controlados pelo jogador."
+  },
+  {
+    "type": "multiple",
+    "q": "No universo do Instagram, o que é um \"Finsta\"?",
+    "options": [
+      "Uma conta oficial de uma marca de finanças",
+      "Um filtro de beleza que afina o rosto",
+      "Uma conta secundária, falsa ou privada, usada para postar conteúdos mais íntimos ou sem filtros",
+      "Uma postagem que foi deletada em menos de 24 horas"
+    ],
+    "correct": 2,
+    "hint": "É um perfil alternativo, com público mais restrito."
+  },
+  {
+    "type": "multiple",
+    "q": "Qual era a duração máxima original dos vídeos na extinta e saudosa rede social Vine?",
+    "options": [
+      "6 segundos",
+      "10 segundos",
+      "15 segundos",
+      "30 segundos"
+    ],
+    "correct": 0,
+    "hint": "Era menos de dez segundos."
+  },
+  {
+    "type": "multiple",
+    "q": "Como se chama o primeiro vídeo da história a ser postado no YouTube, que mostra um dos fundadores da plataforma?",
+    "options": [
+      "Charlie bit my finger",
+      "Me at the zoo (Eu no zoológico)",
+      "Numa Numa Dance",
+      "Evolution of Dance"
+    ],
+    "correct": 1,
+    "hint": "O título menciona uma visita a animais."
+  },
+  {
+    "type": "multiple",
+    "q": "Qual era o limite original de caracteres para uma postagem no Twitter antes de ser expandido para 280?",
+    "options": [
+      "100 caracteres",
+      "120 caracteres",
+      "140 caracteres",
+      "160 caracteres"
+    ],
+    "correct": 2,
+    "hint": "Era exatamente a metade de 280."
+  },
+  {
+    "type": "multiple",
+    "q": "O meme clássico \"Doge\", que virou até criptomoeda, é protagonizado por um cachorro de qual raça japonesa?",
+    "options": [
+      "Akita",
+      "Shiba Inu",
+      "Spitz Japonês",
+      "Samoieda"
+    ],
+    "correct": 1,
+    "hint": "O nome da raça tem duas palavras."
+  },
+  {
+    "type": "multiple",
+    "q": "Qual artista brasileira alcançou o Top 1 Global do Spotify impulsionada por uma coreografia que viralizou no TikTok onde a pessoa dança no chão?",
+    "options": [
+      "Pabllo Vittar",
+      "Gloria Groove",
+      "Marina Sena",
+      "Anitta"
+    ],
+    "correct": 3,
+    "hint": "O nome artístico começa com A."
+  },
+  {
+    "type": "multiple",
+    "q": "Qual o nome do compositor e cantor maranhense que estourou na internet com o hit \"Caneta Azul\"?",
+    "options": [
+      "Zé Vaqueiro",
+      "João Gomes",
+      "Manoel Gomes",
+      "Tierry"
+    ],
+    "correct": 2,
+    "hint": "Seu primeiro nome é uma variante de Manuel."
+  },
+  {
+    "type": "multiple",
+    "q": "Qual empresa de tecnologia é a dona do Instagram, WhatsApp e Facebook?",
+    "options": [
+      "Alphabet",
+      "Microsoft",
+      "Meta",
+      "X Corp"
+    ],
+    "correct": 2,
+    "hint": "É uma palavra de quatro letras."
+  },
+  {
+    "type": "multiple",
+    "q": "O que a sigla \"OOTD\", muito usada em legendas do Instagram, significa?",
+    "options": [
+      "Outfit Of The Day (Look do Dia)",
+      "Out Of The Door (Fora de Casa)",
+      "Only On This Day (Apenas Neste Dia)",
+      "Over On The Desk (Em Cima da Mesa)"
+    ],
+    "correct": 0,
+    "hint": "A expressão fala da roupa escolhida para aquele dia."
+  },
+  {
+    "type": "multiple",
+    "q": "O termo \"Quiet Quitting\" (Demissão Silenciosa) viralizou no TikTok para descrever qual atitude no ambiente de trabalho?",
+    "options": [
+      "Pedir demissão sem avisar ninguém e não voltar mais",
+      "Fazer estritamente o que está no contrato, sem horas extras ou esforço adicional não remunerado",
+      "Trabalhar em silêncio absoluto para aumentar o foco",
+      "Pedir as contas através de um e-mail anônimo"
+    ],
+    "correct": 1,
+    "hint": "A ideia é limitar o esforço ao trabalho contratado."
+  },
+  {
+    "type": "multiple",
+    "q": "A trend \"Girl Math\" (Matemática de Menina) consiste em vídeos humorísticos justificando qual tipo de comportamento?",
+    "options": [
+      "Como calcular rapidamente a divisão da conta no bar",
+      "A lógica usada para justificar gastos e compras impulsivas (ex: se paguei em dinheiro físico, saiu de graça)",
+      "Como investir em criptomoedas sem entender de economia",
+      "A contagem de calorias de refeições de fast food"
+    ],
+    "correct": 1,
+    "hint": "É uma brincadeira com justificativas para compras."
+  },
+  {
+    "type": "multiple",
+    "q": "No linguajar do TikTok e X, o que significa a gíria \"Gatekeeping\"?",
+    "options": [
+      "Ficar de porteiro no prédio de algum influenciador",
+      "Bloquear vários usuários ao mesmo tempo",
+      "Esconder ou guardar para si a origem de algo legal (uma música, uma marca de roupa, um restaurante)",
+      "Fazer dancinhas na frente de portões eletrônicos"
+    ],
+    "correct": 2,
+    "hint": "A pessoa guarda uma descoberta em vez de revelar a origem."
+  },
+  {
+    "type": "multiple",
+    "q": "A trend da \"Tube Girl\", que deixou a criadora de conteúdo Sabrina Bahsoon famosa, consistia em fazer o quê?",
+    "options": [
+      "Dançar de forma confiante dentro do metrô de Londres com a câmera no grande angular",
+      "Fazer malabarismos usando tubos de ensaio químicos",
+      "Descer em escorregadores de parques aquáticos gravando o rosto",
+      "Maquiar-se usando apenas produtos em formato de tubo"
+    ],
+    "correct": 0,
+    "hint": "O cenário é um transporte público sobre trilhos."
+  },
+  {
+    "type": "multiple",
+    "q": "O termo \"Nepo Baby\", amplamente debatido no X e no Instagram, é usado para definir quem?",
+    "options": [
+      "Crianças que já nascem com contas no Instagram",
+      "Filhos de pais famosos ou ricos que se beneficiam do nepotismo para alavancar suas próprias carreiras",
+      "Animais de estimação de influenciadores digitais",
+      "Criadores de conteúdo que agem como bebês"
+    ],
+    "correct": 1,
+    "hint": "A expressão envolve vantagens herdadas da família."
+  },
+  {
+    "type": "multiple",
+    "q": "No X (antigo Twitter), o que significa quando uma postagem \"toma um ratio\" (ou proporção)?",
+    "options": [
+      "A conta foi suspensa por violar as regras",
+      "A postagem tem consideravelmente mais respostas discordantes do que curtidas",
+      "O usuário ganhou o selo de verificação pago",
+      "A postagem alcançou um milhão de visualizações em tempo recorde"
+    ],
+    "correct": 1,
+    "hint": "As respostas de discordância pesam mais que as curtidas."
+  },
+  {
+    "type": "multiple",
+    "q": "Qual aplicativo viralizou em 2022 com a proposta de enviar uma notificação diária para que o usuário poste uma foto sem filtros em até 2 minutos?",
+    "options": [
+      "VSCO",
+      "BeReal",
+      "Snapchat",
+      "Locket"
+    ],
+    "correct": 1,
+    "hint": "O nome convida a ser real."
+  },
+  {
+    "type": "multiple",
+    "q": "Quem é a pessoa mais seguida do mundo no Instagram atualmente?",
+    "options": [
+      "Selena Gomez",
+      "Kylie Jenner",
+      "Lionel Messi",
+      "Cristiano Ronaldo"
+    ],
+    "correct": 3,
+    "hint": "Entre as alternativas, procure o jogador português."
+  },
+  {
+    "type": "multiple",
+    "q": "Qual era o nome do jogo de adivinhação de palavras que viralizou no Twitter e acabou sendo comprado pelo jornal The New York Times?",
+    "options": [
+      "Candy Crush",
+      "Gartic",
+      "Wordle",
+      "Flappy Bird"
+    ],
+    "correct": 2,
+    "hint": "É um jogo centrado em descobrir uma palavra."
+  },
+  {
+    "type": "multiple",
+    "q": "A palavra \"Cringe\", que dominou os debates nas redes, foi usada principalmente por qual geração para julgar os gostos da Geração Millennial?",
+    "options": [
+      "Geração Baby Boomer",
+      "Geração X",
+      "Geração Z",
+      "Geração Alpha"
+    ],
+    "correct": 2,
+    "hint": "É a geração que vem depois dos Millennials."
+  },
+  {
+    "type": "multiple",
+    "q": "O meme esportivo \"Bora, Bill!\", que estourou no TikTok, teve origem em qual contexto?",
+    "options": [
+      "Um jogo da primeira divisão do Campeonato Brasileiro",
+      "Uma transmissão de futebol de várzea no Ceará",
+      "Uma partida de videogame transmitida na Twitch",
+      "Um treinamento da Seleção Brasileira"
+    ],
+    "correct": 1,
+    "hint": "Pense em uma transmissão de futebol amador."
+  },
+  {
+    "type": "multiple",
+    "q": "No X (antigo Twitter) após as mudanças de Elon Musk, qual é a cor do selo de verificação dado a empresas e marcas oficiais?",
+    "options": [
+      "Azul",
+      "Cinza",
+      "Dourado",
+      "Verde"
+    ],
+    "correct": 2,
+    "hint": "É uma cor associada a um metal precioso."
+  },
+  {
+    "type": "multiple",
+    "q": "Qual aplicativo de mensagens efêmeras, cujo logotipo é um fantasma, inspirou diretamente a criação do Instagram Stories?",
+    "options": [
+      "Telegram",
+      "Vine",
+      "Periscope",
+      "Snapchat"
+    ],
+    "correct": 3,
+    "hint": "O nome combina conversa com um registro rápido."
+  },
+  {
+    "type": "multiple",
+    "q": "O formato de postagem no Instagram chamado de \"Photo Dump\" (Despejo de Fotos) consiste em quê?",
+    "options": [
+      "Postar uma foto que foi deletada anteriormente",
+      "Um carrossel de fotos aleatórias e casuais, sem muita edição, como se estivesse esvaziando a galeria do celular",
+      "Postar fotos de caminhões de lixo",
+      "Postar dezenas de fotos nos Stories seguidamente"
+    ],
+    "correct": 1,
+    "hint": "São várias imagens casuais reunidas numa publicação."
+  },
+  {
+    "type": "multiple",
+    "q": "O ex-BBB Gil do Vigor imortalizou qual frase que se tornou figurinha e meme constante nas redes sociais?",
+    "options": [
+      "\"Levanta a cabeça, princesa\"",
+      "\"O Brasil tá lascado\"",
+      "\"Deus me livre, mas quem me dera\"",
+      "\"Eu sou rica!\""
+    ],
+    "correct": 1,
+    "hint": "A frase começa mencionando o país."
+  },
+  {
+    "type": "multiple",
+    "q": "A expressão \"Arrasta pra cima\" ficou historicamente associada a qual recurso descontinuado do Instagram?",
+    "options": [
+      "Bloquear usuários indesejados",
+      "Atualizar o feed",
+      "Abrir um link externo colocado nos Stories",
+      "Curtir uma mensagem no Direct"
+    ],
+    "correct": 2,
+    "hint": "O gesto levava a um endereço fora do aplicativo."
+  },
+  {
+    "type": "multiple",
+    "q": "A empresa matriz do TikTok, a ByteDance, tem sede em qual país?",
+    "options": [
+      "Estados Unidos",
+      "Coreia do Sul",
+      "Japão",
+      "China"
+    ],
+    "correct": 3,
+    "hint": "É um país asiático; procure a opção que começa com C."
+  },
+  {
+    "type": "multiple",
+    "q": "O que ocorre quando uma conta de rede social sofre um \"Shadowban\"?",
+    "options": [
+      "A conta é deletada permanentemente sem aviso prévio",
+      "O perfil perde o selo de verificação",
+      "O alcance das postagens é drasticamente reduzido pelo algoritmo de forma invisível para o usuário",
+      "A senha do usuário é exposta na internet"
+    ],
+    "correct": 2,
+    "hint": "A conta continua existindo, mas menos pessoas veem suas postagens."
+  },
+  {
+    "type": "multiple",
+    "q": "\"Doomscrolling\", um termo que ganhou força no X e TikTok, refere-se ao ato de:",
+    "options": [
+      "Rolar o feed obsessivamente consumindo apenas notícias ruins e negativas",
+      "Assistir a vídeos de jogos do clássico \"Doom\"",
+      "Rolar a tela tão rápido que o aplicativo trava",
+      "Curtir fotos antigas acidentalmente enquanto rola o perfil de alguém"
+    ],
+    "correct": 0,
+    "hint": "O hábito envolve continuar consumindo notícias negativas."
+  },
+  {
+    "type": "multiple",
+    "q": "O termo \"Link na Bio\" indica ao seguidor que o endereço do site está localizado onde?",
+    "options": [
+      "Nos comentários fixados",
+      "Na descrição principal do perfil do usuário",
+      "No final do vídeo",
+      "Escondido dentro da foto postada"
+    ],
+    "correct": 1,
+    "hint": "É o pequeno texto de apresentação do perfil."
+  },
+  {
+    "type": "multiple",
+    "q": "O comediante Esse Menino viralizou nas redes sociais ao ironizar e cobrar respostas sobre a vacina de qual farmacêutica?",
+    "options": [
+      "Coronavac",
+      "AstraZeneca",
+      "Pfizer (pronunciado como Pifaizer)",
+      "Janssen"
+    ],
+    "correct": 2,
+    "hint": "O nome começa com duas consoantes."
+  },
+  {
+    "type": "multiple",
+    "q": "A expressão \"Lá ele\", que tomou conta das redes sociais em tom de brincadeira para negar duplos sentidos, é uma gíria originária de qual estado brasileiro?",
+    "options": [
+      "Pernambuco",
+      "Rio de Janeiro",
+      "Bahia",
+      "Minas Gerais"
+    ],
+    "correct": 2,
+    "hint": "O nome do estado tem cinco letras."
+  },
+  {
+    "type": "multiple",
+    "q": "O clássico meme global da \"Mulher Confusa\", com fórmulas matemáticas voando sobre sua cabeça, é protagonizado por qual atriz brasileira no papel da vilã Nazaré Tedesco?",
+    "options": [
+      "Adriana Esteves",
+      "Susana Vieira",
+      "Renata Sorrah",
+      "Claudia Raia"
+    ],
+    "correct": 2,
+    "hint": "O nome da atriz tem as iniciais R. S."
+  },
+  {
+    "type": "multiple",
+    "q": "Como é chamada a tendência do TikTok onde usuários fazem resenhas mostrando o que comem ao longo do dia inteiro?",
+    "options": [
+      "What I Eat In A Day (O Que Eu Como Em Um Dia)",
+      "Daily Bites (Mordidas Diárias)",
+      "Food Log (Registro de Comida)",
+      "My Plate Today (Meu Prato Hoje)"
+    ],
+    "correct": 0,
+    "hint": "O título descreve tudo o que a pessoa come em um dia."
+  }
+]
