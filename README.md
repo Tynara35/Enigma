@@ -53,11 +53,12 @@ Quando publicar uma atualização, altere a versão de `CACHE` em `sw.js` (por e
 Este é um jogo local, sem login ou servidor de validação. Respostas e prêmio podem ser vistos por alguém que inspecione os arquivos ou o armazenamento do navegador; não há proteção antifraude. A instalação real em celulares deve ser conferida após publicar o endereço HTTPS.
 
 
-## Abertura animada do baú
+## Abertura 3D do baú
 
-Após os dez acertos, clique em **Abrir o baú**: a tampa se levanta, a luz e as partículas aparecem e o prêmio escolhido é revelado. A opção **Preparar expedição → Testar abertura do baú** permite conferir a animação com o texto digitado, sem iniciar uma partida. Você pode pular a animação; a preferência de movimento reduzido do dispositivo é respeitada. O efeito também funciona offline.
+Após os dez acertos, clique em **Abrir o baú**. O modelo tridimensional tem corpo oco, tampa curva articulada, tábuas individuais, ferragens e sombras de contato. A câmera se aproxima discretamente, a tampa abre nas dobradiças traseiras e um pergaminho com o prêmio configurado sobe do interior. A sequência dura cerca de 5,6 segundos.
 
-A arte `assets/chest-open.png` foi criada com a ferramenta integrada ImageGen a partir de `assets/chest.png`. Prompt: preservar a câmera, o cenário, o corpo e a posição do baú; abrir a tampa nas dobradiças traseiras e iluminar o interior com luz dourada e pequenas faíscas, sem objetos de prêmio ou texto.
+Use **Preparar expedição → Testar abertura do baú** para conferir o efeito. É possível pular a animação e a preferência de movimento reduzido é respeitada. Em navegadores sem WebGL, a imagem do baú aberto revela o prêmio sem movimento 3D.
 
-A sequência final agora começa com o baú avançando em perspectiva em direção à tela. Em seguida, a tampa se abre e o prêmio surge em primeiro plano. A sequência dura aproximadamente 4,6 segundos antes da revelação.
+A biblioteca Three.js 0.180.0 está incluída em `vendor/`, junto com a licença MIT; não depende de CDN durante o jogo e é armazenada para uso offline. O modelo e a animação estão em `chest-3d.js`.
 
+A textura `assets/wood.png` foi criada com ImageGen integrado. Prompt: textura fotográfica plana e repetível de nogueira envelhecida, com veios horizontais, poros, riscos finos e manchas castanhas sutis; sem emendas, objetos, perspectiva, texto ou sombras direcionais. A arte `assets/chest-open.png` é usada como alternativa estática e mantém o estilo da imagem original do quebra-cabeça.
